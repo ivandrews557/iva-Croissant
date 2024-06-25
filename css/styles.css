@@ -1,3 +1,42 @@
 body {
-    background: blueviolet;
+    background: #F6CDE1;
+}
+
+html {
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    display: block;
+    margin: 5px;
+    margin-inline-start: 0%;
+    margin-inline-end: 0%;
+    margin-block-start: 3em;
+    margin-block-end: 3em;
+}
+
+img {
+    overflow-clip-margin: content-box;
+}
+
+footer {
+    display: block;
+    word-spacing: 20px;
+    font-size: larger;
+}
+
+footer {
+    text-align: center;
+}
+
+.croissant-photo {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
 }
